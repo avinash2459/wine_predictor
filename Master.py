@@ -1,7 +1,6 @@
 # from joblib import dump, load
 import numpy as np
 import pandas as pd
-import matplotlib as plt
 from sklearn import preprocessing
 from sklearn.metrics import classification_report
 from sklearn.ensemble import RandomForestClassifier
